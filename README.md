@@ -33,4 +33,4 @@ The notes are organized into separate folders for each topic:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/ai-ml-ds-notes.git
+   git clone https://github.com/Hamid-progs/ML-Ai-DataScience_Notes.git
